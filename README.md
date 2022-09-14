@@ -7,3 +7,9 @@ The data is taken from Detailed Expenditure Workbook published yearly by office 
 
 ## The code
 Python libraries numpy, pandas and scipy are used to conduct Descriptive analysis and statistical inference based on hypothesis testing
+
+## The Files
+20 : the detailed workbook from the year 2020
+21 : the detailed workbook from the year 2021
+19 : the detailed workbook from the year 2019
+2020_1 : The transformed and prepared data used for study.
